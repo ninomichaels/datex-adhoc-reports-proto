@@ -1,0 +1,6 @@
+{
+  "name": "MDV - with advanced filters",
+  "description": "A data viewing tool to generate and manage tables of data with advanced filtering, column selection, and pagination. Designed for a clean, modern user experience.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
